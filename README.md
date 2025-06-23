@@ -1,6 +1,6 @@
 # ⚡ Energy Company Data Cleaning, Exploration & Churn Prediction
 
-**Project Type:** Data Cleaning · Exploratory Data Analysis · Predictive Modeling  
+**Project Type:** Data Cleaning · Exploratory Analysis · Churn Modeling 
 **Tools Used:** Python (Pandas, NumPy, scikit-learn), Jupyter Notebook, Matplotlib  
 
 ## 🔍 Overview
@@ -26,10 +26,10 @@ This project simulates a real-world scenario involving an energy company’s cus
 
 ## ✅ Project Outcomes
 
-- Produced a structured and ready-to-use dataset for analysis  
-- Discovered trends in customer behavior and pricing  
-- Trained a **Random Forest model** with ~85% accuracy on churn prediction  
-- Delivered insight-driven recommendations for reducing churn
+- Produced a clean, structured dataset from raw customer data  
+- Built and evaluated a **Random Forest classifier** achieving ~90% accuracy  
+- Identified key churn drivers using data exploration and model insights  
+- Generated visual summaries and a predictive model for strategic business use
 
 ---
 
